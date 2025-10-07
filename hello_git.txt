@@ -1,4 +1,4 @@
 Hello Word in Git
 Gestionando los cambios en GITHUB
 
-Usando Diff
+Usando Diff, comparando
